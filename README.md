@@ -1,8 +1,8 @@
-# Radar-tba
+# Radar-34055392
 
 Project created to report bug on Custom TVML listItemLockup elements
 
-· Open radar: https://openradar.appspot.com/tba
+· Open radar: https://openradar.appspot.com/34055392
 
 # Description
 When using a [catalogTemplate](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/ATV_Template_Guide/CatalogTemplate.html) for TVML, no customization via the `TVInterfaceFactory.shared().extendedInterfaceCreator` can be achieved. It falls back to an empty `TVListViewCell`.
